@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF0F6AB-99CF-4370-9117-3AA9DCFE9CF9}|Magicover\\Magicover.vcxproj|C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\Magicover\\Magicover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEF0F6AB-99CF-4370-9117-3AA9DCFE9CF9}|Magicover\\Magicover.vcxproj|solutionrelative:Magicover\\Magicover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magicover.cpp",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\Magicover\\Magicover.cpp",
+              "RelativeDocumentMoniker": "Magicover\\Magicover.cpp",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\Magicover\\Magicover.cpp",
+              "RelativeToolTip": "Magicover\\Magicover.cpp",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAAACUCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T07:07:22.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
