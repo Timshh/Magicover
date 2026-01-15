@@ -1,43 +1,43 @@
 ﻿  Magicover.cpp
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(74,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(93,27): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(177,16): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(196,22): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(197,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(198,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(199,20): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(225,22): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(226,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(227,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(228,20): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(255,22): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(256,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(257,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(258,20): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(275,16): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(276,22): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(277,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(278,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(279,20): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(310,16): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(311,22): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(312,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(313,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(314,20): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(331,16): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(333,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(334,21): warning C4305: =: усечение из "double" в "float"
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(398,19): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(522,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(539,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(647,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(647,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(722,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(722,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(751,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(751,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(751,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(756,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(756,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\Magicover\Magicover.cpp(756,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-  Magicover.vcxproj -> C:\Users\Tim\Documents\Lab\ITMO\CPP\Magicover\x64\Debug\Magicover.exe
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(74,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(93,27): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(191,16): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(210,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(211,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(212,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(213,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(239,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(240,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(241,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(242,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(269,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(270,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(271,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(272,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(289,16): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(290,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(291,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(292,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(293,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(324,16): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(325,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(326,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(327,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(328,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(345,16): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(347,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(348,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(412,19): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(536,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(553,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(660,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(660,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(735,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(735,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(764,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(764,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(764,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(769,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(769,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tim\Documents\GitHub\Magicover\Magicover\Magicover.cpp(769,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Magicover.vcxproj -> C:\Users\Tim\Documents\GitHub\Magicover\x64\Debug\Magicover.exe

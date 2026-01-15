@@ -104,14 +104,24 @@ void Enemy::Attack() {
 void Enemy::Stats() {
   CheckHP();
   if (HP >= HPMax / 2) {
-    cout << CalmText + "\n";
+    cout << CalmText;
   } else {
     if (HP >= HPMax / 4) {
-      cout << HurtText + "\n";
+      cout << HurtText;
     } else {
-      cout << DamagedText + "\n";
+      cout << DamagedText;
     }
   }
+  SetColor(12);
+  cout << " " << Flame;
+  SetColor(11);
+  cout << " " << Frost;
+  SetColor(8);
+  cout << " " << Dark;
+  SetColor(13);
+  cout << " " << Psycho;
+  SetColor(7);
+  cout << endl;
 }
 
 void Enemy::RecieveDmg() {
@@ -125,6 +135,7 @@ void Enemy::RecieveDmg() {
         HP -= 100;
         cout << "Flame overload! " << Name << " exploded";
       }
+      break;
     case 2:
       Frost += Status * StatusMult * FrostResist;
       if (Frost >= 50) {
@@ -132,6 +143,7 @@ void Enemy::RecieveDmg() {
         HP -= 100;
         cout << "Frost overload! " << Name << " were frozen";
       }
+      break;
     case 3:
       Dark += Status * StatusMult * DarkResist;
       if (Frost >= 50) {
@@ -139,6 +151,7 @@ void Enemy::RecieveDmg() {
         HP -= 100;
         cout << "Dark overload! " << Name << " got corrupted";
       }
+      break;
     case 4:
       Psycho += Status * StatusMult * PsychoResist;
       if (Frost >= 50) {
@@ -146,6 +159,7 @@ void Enemy::RecieveDmg() {
         HP -= 100;
         cout << "Psycho overload! " << Name << " attacked self in hysteria";
       }
+      break;
   }
   CheckHP();
 }
@@ -543,7 +557,7 @@ int main() {
             cout << "Spacious outer palaces look regular\n";
             break;
           case 2:
-            cout << "Spacious inner palaces shine before Last Mage\n";
+            cout << "Grandiose inner palaces shine before Last Mage\n";
             break;
           case 3:
             cout << "Slayers section feels majestically. Soon it will burn\n";
@@ -552,8 +566,8 @@ int main() {
         SetColor(11);
         cout << "\nLast Mage\n";
         SetColor(15);
-        cout << "1. Inventory\n2. Go to the next palace\n3. Right artifact "
-                "room\n4. Left Artifact room\n";
+        cout << "1. Inventory\n2. Forward\n3. Right room\n4. "
+                "Left room\n";
         if (CurrStage != 1) {
           cout << "5. Return to previous palace\n";
         }
@@ -706,11 +720,11 @@ int main() {
               cout << "That didn't work\n";
               break;
           }
-          for (Boss& boss : StageBosses) {
-            boss.Act();
-          }
           for (Enemy& enemy : Enemies) {
             enemy.Act();
+          }
+          for (Boss& boss : StageBosses) {
+            boss.Act();
           }
           if (MainHP <= 0) {
             SetColor(4);

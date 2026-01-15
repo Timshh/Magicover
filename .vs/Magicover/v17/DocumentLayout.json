@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\",
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\GitHub\\Magicover\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEF0F6AB-99CF-4370-9117-3AA9DCFE9CF9}|Magicover\\Magicover.vcxproj|C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\Magicover\\Magicover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EEF0F6AB-99CF-4370-9117-3AA9DCFE9CF9}|Magicover\\Magicover.vcxproj|C:\\Users\\Tim\\Documents\\GitHub\\Magicover\\Magicover\\Magicover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EEF0F6AB-99CF-4370-9117-3AA9DCFE9CF9}|Magicover\\Magicover.vcxproj|solutionrelative:Magicover\\Magicover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Magicover.cpp",
-              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\Magicover\\Magicover.cpp",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\GitHub\\Magicover\\Magicover\\Magicover.cpp",
               "RelativeDocumentMoniker": "Magicover\\Magicover.cpp",
-              "ToolTip": "C:\\Users\\Tim\\Documents\\Lab\\ITMO\\CPP\\Magicover\\Magicover\\Magicover.cpp",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\GitHub\\Magicover\\Magicover\\Magicover.cpp",
               "RelativeToolTip": "Magicover\\Magicover.cpp",
-              "ViewState": "AgIAAGUCAAAAAAAAAAAAAHICAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAAANcCAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-09T07:07:22.534Z",
               "EditorCaption": ""
